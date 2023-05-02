@@ -328,3 +328,8 @@ let avatar2 = Movement::Up;
 let avatar3 = Movement::Down;
 let avatar4 = Movement::Right;
 ```
+# Fun facts about Rust
+- Rust was invented by Graydon Hoare, a Mozilla employee, in 2006.
+- Rust is a compiled and an imperative language.
+- The benefits of using Rust is that it is fast, memory safe, and thread safe.
+- Rust is for systems programming.
