@@ -96,7 +96,7 @@
 - `assert_eq!(20, s.capacity());`
 ---
 # Tuples
-- Tuples are groups of values of different types with a max of 12 elements. You have to delcare the type of each element in the tuple.
+- Tuples are groups of values of different types with a max of 12 elements. You have to declare the type of each element in the tuple. Fixed length.
 > Instantiate a tuple.
 - `let person: (&str, &str, i8) = ("Brad", "Mass", 37);`
 > Accessing tuple values.
