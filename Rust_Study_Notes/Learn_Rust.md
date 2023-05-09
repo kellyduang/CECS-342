@@ -32,6 +32,11 @@
 > This how you assign multiple variables at once.
 - `let (my_name, my_age) = ("Brad", 37);`
 ---
+# Constants
+- Constants are always immutable, must be set to a constant expression instead of result that can only be computed at runtime.
+> This is how you declare a constant variable. 
+- `const ID: i32 = 001;`
+---
 # Data Types
 1. Integers: u8, i8, u16, i16, u32, i32, u64, i64, u128, i128 (number of bits they take in memory)
 2. Floats: f32, f64
